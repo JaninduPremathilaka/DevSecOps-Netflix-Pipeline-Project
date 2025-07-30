@@ -14,6 +14,13 @@
   <p align="center">Home Page</p>
 </div>
 
+<br />
+
+<div align="center">
+  <img src="./public/assets/1.jenkins stages view.jpg" alt="Home Page" width="100%" height="100%">
+  <p align="center">Home Page</p>
+</div>
+
 # 💡 DevSecOps CI/CD Pipeline Project - Netflix Clone
 
 This is a **hands-on DevSecOps project** I personally implemented using my own AWS resources, GitHub repository, and DevOps toolchain. The goal was to build, secure, monitor, and deploy a Netflix Clone application using a complete CI/CD pipeline with tools such as **Jenkins**, **Docker**, **SonarQube**, **Trivy**, **OWASP Dependency Check**, **Prometheus**, **Grafana**, **ArgoCD**, and **Kubernetes (EKS)**.
