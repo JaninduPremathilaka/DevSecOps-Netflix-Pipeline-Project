@@ -76,7 +76,7 @@
 
 <br />
 <div align="center">
-  <img src="./public/assets/10.pod 1.jpgg" alt="Home Page" width="100%" height="100%">
+  <img src="./public/assets/10.pod 1.jpg" alt="Home Page" width="100%" height="100%">
 </div>
 
 <br />
