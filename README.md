@@ -18,8 +18,68 @@
 
 <div align="center">
   <img src="./public/assets/1.jenkins stages view.jpg" alt="Home Page" width="100%" height="100%">
-  <p align="center">Home Page</p>
+  <p align="center">Jenkins Pipline & stages view</p>
 </div>
+
+<br />
+
+<div align="center">
+  <img src="./public/assets/2.sonarqube scan passed.jpg" alt="Home Page" width="100%" height="100%">
+  <p align="center">Jenkins Pipline & stages view</p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./public/assets/3.dockerhub push.jpg" alt="Home Page" width="100%" height="100%">
+  <p align="center">Dockerhub push</p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./public/assets/4.argocd.jpg" alt="Home Page" width="100%" height="100%">
+  <p align="center">Argocd</p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./public/assets/5.cluster.jpg" alt="Home Page" width="100%" height="100%">
+  <p align="center">cluster</p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./public/assets/6.cluster details.jpg" alt="Home Page" width="100%" height="100%">
+  <p align="center">Cluster details</p>
+</div>
+
+<br />
+<div align="center">
+  <img src="./public/assets/7.Prometheus .jpg" alt="Home Page" width="100%" height="100%">
+  <p align="center">Prometheus</p>
+</div>
+
+<br />
+<div align="center">
+  <img src="./public/assets/8.grafana dashbaord.jpg" alt="Home Page" width="100%" height="100%">
+  <p align="center">Grafana dashbaord</p>
+</div>
+
+<br />
+<div align="center">
+  <img src="./public/assets/9.Instances Runing.jpg" alt="Home Page" width="100%" height="100%">
+  <p align="center">Runing Instances</p>
+</div>
+
+<br />
+<div align="center">
+  <img src="./public/assets/10.pod 1.jpgg" alt="Home Page" width="100%" height="100%">
+</div>
+
+<br />
 
 # 💡 DevSecOps CI/CD Pipeline Project - Netflix Clone
 
